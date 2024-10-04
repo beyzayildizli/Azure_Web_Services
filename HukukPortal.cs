@@ -58,7 +58,7 @@ namespace ConsoleApp3
                     Messages =
                     {
                         new ChatMessage(ChatRole.System, $@"
-                            Sen Aygaz şirketinin hukuk departmanı için hukuk dökümanlarını özetleyen yapay zeka asistanısın. 
+                            Sen hukuk departmanı için hukuk dökümanlarını özetleyen yapay zeka asistanısın. 
                             "
                         ),
 
